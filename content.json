@@ -4,7 +4,7 @@
     "content": "<p> Halo Ini adalah konten homepage yang diambil dari file JSON. Anda bisa mengedit konten ini.</p>"
   },
   "contact": {
-    "title": "Hubungi Kami",
+    "title": "Hubungi Saya Ya",
     "content": "<p>Silakan kirim email ke contact@example.com</p>"
   }
 }
