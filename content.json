@@ -1,6 +1,6 @@
 {
   "index": {
-    "title": "Selamat Datang di Halaman Utama",
+    "title": "Selamat Datang di Halaman Home",
     "content": "<p>Ini adalah konten homepage yang diambil dari file JSON. Anda bisa mengedit konten ini.</p>"
   },
   "contact": {
